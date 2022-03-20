@@ -1,4 +1,4 @@
-# Academic Bean Counter aka publication metrics
+# Academic Bean Counter (aka publication metrics)
 
 Assembling publication metrics (a.k.a. counting the beans) is the annual ritual for anyone in research and academia. This script allows pulling the publication statistics from Google Scholar and plot time series of publications per year and citations per year.
 
